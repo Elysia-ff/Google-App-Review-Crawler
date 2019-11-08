@@ -1,5 +1,5 @@
 # Google-App-Review-Crawler
-Google Play 의 앱 리뷰를 크롤링해서 csv 로 추출하고 별점 별로 자주 언급된 키워드를 추출합니다.
+Google Play 의 앱 리뷰를 크롤링해서 csv 로 추출하고 별점 별로 자주 언급된 키워드를 검색합니다.
 
 ## Requirements
 
