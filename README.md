@@ -204,3 +204,5 @@ done = 9 Early stopped.
       지금:     16.2949
 Process Done.
 ```
+
+![cap](https://user-images.githubusercontent.com/45890606/68486205-fc97ce80-0283-11ea-9222-6e5a00cb4aab.PNG)
