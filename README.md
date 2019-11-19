@@ -206,3 +206,10 @@ Process Done.
 ```
 
 ![cap](https://user-images.githubusercontent.com/45890606/68486205-fc97ce80-0283-11ea-9222-6e5a00cb4aab.PNG)
+
+## More
+
+If you want to add the reviews' dates to csv...
+
+`date=soup.find(class_="p2TkOb").text`
+
