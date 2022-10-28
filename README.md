@@ -3,7 +3,7 @@ Google Play 의 앱 리뷰를 크롤링해서 csv 로 추출하고 별점 별로
 
 ## Requirements
 
->1. Chorme (with chormedriver)
+>1. Chrome (with chromedriver)
 >2. KR-WordRank
 >3. BeautifulSoup
 
@@ -206,10 +206,3 @@ Process Done.
 ```
 
 ![cap](https://user-images.githubusercontent.com/45890606/68486205-fc97ce80-0283-11ea-9222-6e5a00cb4aab.PNG)
-
-## More
-
-If you want to add the reviews' dates to csv...
-
-`date=soup.find(class_="p2TkOb").text`
-
